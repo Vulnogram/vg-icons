@@ -1,0 +1,10 @@
+<svg version="1.1" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+<g transform="matrix(1.1133 0 0 .89827 -1220 0)" stroke-width="1px">
+<path d="m1097.9 1.1133h5.9969l-0.1519 1.1133h-2.5308l-1.2155 6.1064h-0.9639l1.2155-6.1064h-2.507z"/>
+</g>
+<g stroke-width=".5">
+<path d="m6 6 3 3" fill="#a40000" fill-rule="evenodd" stroke="#d60000"/>
+<path d="m9 6-3 3" fill="none" stroke="#d60000"/>
+<path d="m1 8.25h4.5" fill="none" stroke="#000"/>
+</g>
+</svg>
