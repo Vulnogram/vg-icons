@@ -35,7 +35,7 @@ function svgCssIcons() {
     }    
     </style>
     </head>
-    <body><h1>Vulnogram Icon Set</h1><div id=iconlist>`
+    <body><h1>Vulnogram Icon Set</h1>. <a href="https://vulnogram.github.io/vg-icons/">More details.</a> <div id=iconlist>`
     // Base css
     var baseCss =
       '[class^="vgi-"], ' +
