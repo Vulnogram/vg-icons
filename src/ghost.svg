@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 10 10"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="ghost.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="53.820858"
+     inkscape:cx="5.676238"
+     inkscape:cy="4.9330317"
+     inkscape:window-width="1368"
+     inkscape:window-height="728"
+     inkscape:window-x="216"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       id="grid4"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <path
+     d="m 7.5,3.75 v 2.08 c 0.26,0.744 0.42,2.92 0,2.92 L 6.7,8 6,8.75 5,8 4,8.75 3.25,8 2.5,8.75 C 2.116041,9.133959 2.183,6.526 2.5,5.736 V 3.75 c 0,-1.5 0.84,-2.5 2.5,-2.5 1.657,0 2.5,1 2.5,2.5 z"
+     fill="#ffcc00"
+     stroke="#000000"
+     stroke-width="0.5"
+     stroke-linecap="round"
+     id="path2"
+     sodipodi:nodetypes="scscccccscsss"
+     style="fill:#f9f9f9" />
+  <circle
+     style="fill:#000000;fill-opacity:1"
+     id="path4"
+     cx="4.2548561"
+     cy="3.075985"
+     r="0.5759849" />
+  <circle
+     style="fill:#000000;fill-opacity:1"
+     id="path4-7"
+     cx="5.7670527"
+     cy="3.0998313"
+     r="0.5759849" />
+</svg>
