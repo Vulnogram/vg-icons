@@ -3,7 +3,7 @@
    viewBox="0 0 10 10"
    version="1.1"
    id="svg4"
-   sodipodi:docname="del.svg"
+   sodipodi:docname="menu.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.6882195"
-     inkscape:cx="-35.94115"
-     inkscape:cy="11.518232"
+     inkscape:zoom="41.584463"
+     inkscape:cx="5.6391254"
+     inkscape:cy="2.7654559"
      inkscape:window-width="1368"
      inkscape:window-height="847"
      inkscape:window-x="208"
@@ -50,40 +50,25 @@
      stroke="#000"
      id="g4">
     <path
-       stroke-linejoin="round"
-       stroke-linecap="round"
-       fill="#cccccc"
-       d="m 7.5,3.25 v 4.5065 c 0,0.554 -0.446,1 -1,1 h -3 c -0.554,0 -1,-0.446 -1,-1 V 3.289"
-       stroke-width="0.5"
-       id="path1"
-       sodipodi:nodetypes="cssssc"
-       style="fill:#e8e8e8;fill-opacity:1;stroke-linecap:butt" />
-    <path
-       d="m 1.75,2.25 h 6.5"
+       d="M 1,5.0196873 H 9"
        fill="none"
        stroke-width="0.5"
        id="path3"
-       sodipodi:nodetypes="cc" />
-    <path
-       d="M 4,1.737549 H 5.9974761"
-       fill="none"
-       stroke-width="0.277175"
-       id="path3-9"
        sodipodi:nodetypes="cc"
-       style="stroke-width:0.5;stroke-dasharray:none" />
+       style="stroke-width:1;stroke-dasharray:none" />
     <path
-       d="M 4,7.5 V 4"
+       d="M 1,7.5360933 H 9"
        fill="none"
-       stroke-width="0.277175"
-       id="path3-9-6"
+       stroke-width="0.5"
+       id="path3-7"
        sodipodi:nodetypes="cc"
-       style="stroke-width:0.5;stroke-dasharray:none" />
+       style="stroke-width:1;stroke-dasharray:none" />
     <path
-       d="M 6,7.5 V 4"
+       d="M 1,2.5032812 H 9"
        fill="none"
-       stroke-width="0.277175"
-       id="path3-9-6-3"
+       stroke-width="0.5"
+       id="path3-6"
        sodipodi:nodetypes="cc"
-       style="stroke-width:0.5;stroke-dasharray:none" />
+       style="stroke-width:1;stroke-dasharray:none" />
   </g>
 </svg>

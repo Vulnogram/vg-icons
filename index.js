@@ -38,14 +38,13 @@ function svgCssIcons() {
     <body><h1>Vulnogram Icon Set</h1>. <a href="https://vulnogram.github.io/vg-icons/">More details.</a> <div id=iconlist>`
     // Base css
     var baseCss =
-      '[class^="vgi-"], ' +
-      '[class*=" vgi-"] {' +
-        'display: inline-flex;' +
-        'vertical-align: middle;' +
-        'min-width: 1em;' +
-        'min-height: 1em;' +
-        'background-position: 0% 50%;' +
-        'background-repeat: no-repeat;padding-left:1.4em;background-size: 1em 1em' +
+      '[class^="vgi-"]::before, ' +
+      '[class*=" vgi-"]::before {' +
+        'content:"";width: 20px;height: 20px;' +
+        'min-width: 20px;min-height: 20px;' +
+        'display: inline-flex; vertical-align:middle;' +
+        'background-position: 50% 50%;fill: currentColor;' +
+        'background-repeat: no-repeat;padding-left:2px;padding-right:4px;background-size: 20px' +
       '\n}'
     ;
   
@@ -53,7 +52,7 @@ function svgCssIcons() {
       // Create css class for each icon
       var name = className.replace(/\.[^/.]+$/, "");
       baseCss +=
-        '.vgi-' + name + ' {' +
+        '.vgi-' + name + '::before {' +
         'background-image: url(data:image/svg+xml;base64,' + svgData + ');' +
         '}\n'
       ;
